@@ -19,8 +19,11 @@ Each certificate is presented with its issuing authority, methodology, and trace
 
 ## 1. Clinical Psychometric Assessment (WAIS‑IV)
 New York State Education Department – Office of the Professions  
+
 Saratoga Springs, New York State, USA
+
 Date: February 2025
+
 Certificate No.: NYSP‑2025‑0218‑VB150
 
 Instrument
@@ -60,8 +63,11 @@ All validity indicators within normal limits
 The WAIS‑IV assessment was undertaken at the recommendation of my psychoanalyst and integrated into the ongoing analytic process. The test was administered in person by a licensed psychologist under standardized clinical conditions.
 
 ## 2. International Intelligence Assessment Authority (IIAA)
+
 International Online Assessment  
+
 Date: March 2024
+
 Certificate No.: IIAA‑2024‑0306‑VB150
 
 Result
