@@ -1,4 +1,14 @@
 Cognitive Assessment Records
+# Cognitive Assessment Records
+
+![Academic Documentation](https://img.shields.io/badge/Academic-Documentation-003366?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Psychometrics](https://img.shields.io/badge/Psychometrics-WAIS--IV-4B0082?style=for-the-badge)
+![Cognitive Assessment](https://img.shields.io/badge/Cognitive-Assessment-2E8B57?style=for-the-badge)
+![International Assessment](https://img.shields.io/badge/International-Assessment-1E90FF?style=for-the-badge)
+![Verified Record](https://img.shields.io/badge/Verified-Record-696969?style=for-the-badge)
+
+Professional Documentation · Psychometric & Intelligence Assessments  
+Saratoga Springs, New York State · International
 
 Professional Documentation · Psychometric & Intelligence Assessments
 
