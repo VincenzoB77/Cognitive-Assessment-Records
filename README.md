@@ -55,6 +55,10 @@ Supervision by licensed psychologist
 
 All validity indicators within normal limits
 
+## Clinical Context
+
+The WAIS‑IV assessment was undertaken at the recommendation of my psychoanalyst and integrated into the ongoing analytic process. The test was administered in person by a licensed psychologist under standardized clinical conditions.
+
 ## 2. International Intelligence Assessment Authority (IIAA)
 International Online Assessment  
 Date: March 2024
