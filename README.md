@@ -101,7 +101,9 @@ In addition to the clinical evaluation, the repository includes an international
 
 The purpose of this repository is to maintain an organized, verifiable, and academically neutral archive of cognitive assessment records. It supports identity management across professional platforms such as ORCID, enhances long‑term documentation integrity, and provides a clear reference for psychometric data without implying self‑promotion or interpretive claims beyond the scope of the original assessments.
 
-Bumbalo, V. (2026). *Cognitive Assessment Records* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
+## APA 7 Citation
+
+Bumbalo, V. (2026). *Cognitive Assessment Records: Clinical and International Psychometric Documentation* [GitHub repository]. https://github.com/
 
 
 
