@@ -7,11 +7,11 @@ Cognitive Assessment Records
 ![International Assessment](https://img.shields.io/badge/International-Assessment-1E90FF?style=for-the-badge)
 ![Verified Record](https://img.shields.io/badge/Verified-Record-696969?style=for-the-badge)
 
+## About
+
+This repository provides a concise and academically neutral overview of cognitive assessments conducted in both clinical and international settings. Its purpose is to offer a clear reference for documentation, identity management (e.g., ORCID), and long‑term archival, without overlapping with the detailed verification and licensing notes presented later in the page.
+
 Professional Documentation · Psychometric & Intelligence Assessments  
-Saratoga Springs, New York State · International
-
-Professional Documentation · Psychometric & Intelligence Assessments
-
 Saratoga Springs, New York State · International
 
 This page provides official documentation of clinical and international cognitive assessments.
@@ -99,3 +99,5 @@ This repository provides a structured and professionally curated record of cogni
 In addition to the clinical evaluation, the repository includes an international online assessment issued by the International Intelligence Assessment Authority (IIAA). While non‑clinical in nature, this recognition documents a consistent cognitive performance level across different testing environments. The separation between clinical and non‑clinical assessments is intentional, ensuring clarity, transparency, and proper contextualization of each certificate.
 
 The purpose of this repository is to maintain an organized, verifiable, and academically neutral archive of cognitive assessment records. It supports identity management across professional platforms such as ORCID, enhances long‑term documentation integrity, and provides a clear reference for psychometric data without implying self‑promotion or interpretive claims beyond the scope of the original assessments.
+
+
