@@ -1,4 +1,4 @@
-Cognitive Assessment Records
+
 # Cognitive Assessment Records
 
 ![Academic Documentation](https://img.shields.io/badge/Academic-Documentation-003366?style=for-the-badge&logo=readthedocs&logoColor=white)
