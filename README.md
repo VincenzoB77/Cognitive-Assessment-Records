@@ -62,7 +62,12 @@ Non‑clinical, non‑diagnostic
 
 Provided as international recognition of cognitive performance
 
-📄 Purpose of This Documentation
+Purpose of This Documentation
 Purpose
 This documentation provides a clear and organized record of cognitive assessments conducted in both clinical and international settings. Its purpose is to maintain transparent, verifiable information about the instruments used, the conditions of administration, and the official certification details. The page supports academic identity management (e.g., ORCID), professional portfolios, and long‑term archival of psychometric records while distinguishing clinical evaluations from non‑clinical recognitions.Questa pagina GitHub serve a:
 
+This repository provides a structured and professionally curated record of cognitive assessments conducted in both clinical and international contexts. The documentation includes a licensed WAIS‑IV evaluation performed in Saratoga Springs, New York State, under standardized conditions and supervised by a state‑licensed psychologist. The assessment reports a Full Scale IQ of 150, with detailed index scores and validated administration, reflecting a high‑precision psychometric profile based on established APA guidelines.
+
+In addition to the clinical evaluation, the repository includes an international online assessment issued by the International Intelligence Assessment Authority (IIAA). While non‑clinical in nature, this recognition documents a consistent cognitive performance level across different testing environments. The separation between clinical and non‑clinical assessments is intentional, ensuring clarity, transparency, and proper contextualization of each certificate.
+
+The purpose of this repository is to maintain an organized, verifiable, and academically neutral archive of cognitive assessment records. It supports identity management across professional platforms such as ORCID, enhances long‑term documentation integrity, and provides a clear reference for psychometric data without implying self‑promotion or interpretive claims beyond the scope of the original assessments.
