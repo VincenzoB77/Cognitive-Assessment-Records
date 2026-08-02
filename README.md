@@ -103,6 +103,7 @@ Certificate numbers included in this repository are non‑sensitive identifiers 
 The IIAA certificate (IIAA‑2024‑0306‑VB150) represents an international online assessment. It is non‑clinical and non‑diagnostic; verification pertains only to the issuing organization’s documentation practices.
 
 All information presented here is intended for academic identity management, professional transparency, and long‑term archival. No external party can initiate inquiries or access private data based solely on the certificate numbers.
+
 ## Conclusion
 
 This repository provides a structured and professionally curated record of cognitive assessments conducted in both clinical and international contexts. The documentation includes a licensed WAIS‑IV evaluation performed in Saratoga Springs, New York State, under standardized conditions and supervised by a state‑licensed psychologist. The assessment reports a Full-Scale IQ of 150, with detailed index scores and validated administration, reflecting a high‑precision psychometric profile based on established APA guidelines.
