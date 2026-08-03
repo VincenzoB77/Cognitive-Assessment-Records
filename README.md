@@ -116,6 +116,7 @@ The purpose of this repository is to maintain an organized, verifiable, and acad
 
 Bumbalo, V. (2026). *Cognitive Assessment Records: Clinical and International Psychometric Documentation* [GitHub repository]. https://github.com/
 
+© 2026 Dr. Vincenzo Bumbalo. All rights reserved. This work is fully protected by international copyright legislation. Any unauthorized use, reproduction, distribution, storage, or transmission is strictly forbidden and will be prosecuted under applicable law. No part of this material may be copied, archived, or disseminated without prior written authorization from the author.
 
 
 
